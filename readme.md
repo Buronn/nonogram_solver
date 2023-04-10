@@ -32,6 +32,7 @@ Cada número en las pistas indica la cantidad de celdas que deben ser coloreadas
 
 El programa imprimirá la matriz resuelta en la consola, siempre y cuando se haya puesto "yes" en la pregunta "Print results?".
 Ejemplo de output:
+```
 □ □ □ ■ ■ ■ ■ □ □ □
 □ ■ ■ ■ ■ ■ ■ ■ ■ □
 ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
@@ -42,3 +43,4 @@ Ejemplo de output:
 □ □ ■ ■ □ □ ■ ■ □ □
 □ □ □ ■ ■ ■ ■ □ □ □
 □ □ □ □ ■ ■ □ □ □ □
+```
